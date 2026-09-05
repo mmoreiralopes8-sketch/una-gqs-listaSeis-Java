@@ -13,3 +13,6 @@ Algoritmo em Java que realiza as quatro operacoes basicas (soma, subtracao, mult
 ## Como executar
 javac Calculadora.java
 java Calculadora
+
+
+Algoritino para testes de versionamento com a turma!
